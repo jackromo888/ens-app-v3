@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@ensdomains/address-encoder": "^0.2.18",
-    "@ensdomains/ens-contracts": "^0.0.12",
+    "@ensdomains/ens-contracts": "^0.0.20",
     "@ensdomains/ens-validation": "^0.1.0",
     "@ensdomains/ensjs": "v3.0.0-alpha.17",
     "@ensdomains/eth-ens-namehash": "^2.0.15",
